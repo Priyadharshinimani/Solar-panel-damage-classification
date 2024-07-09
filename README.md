@@ -13,7 +13,7 @@ Data augmentation techniques, such as flipping, rotating, and blurring, are appl
 
 🧠 Model Building and Comparison:
 Three YOLO models (YOLOv8, YOLOv7, and YOLOv5) are trained and compared for accuracy
-YOLOv8 achieves the best performance with a mean average precision (mAP50) of 38.40% and mAP50-95 of 27.00%
+YOLOv8 achieves the best performance with a mean average precision (mAP50)
 
 🚀 Model Deployment:
 A Streamlit application is developed to perform object detection using the trained YOLOv8 model
